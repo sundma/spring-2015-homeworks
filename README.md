@@ -5,9 +5,14 @@
 ## Homeworks
 [Homework 0](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-0/Homework-0.ipynb)
 
+<<<<<<< HEAD
 [Homework 1](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-1/1:.Popular-books.ipynb)
 
 [Homework 2](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-2/2.Pandas-in-Boston.ipynb)
+=======
+[Homework 1](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-1/1.Popular-books.ipynb)
+
+>>>>>>> b2b7731d04e50e2118588a66aad59496acec925d
 
 ## License
 Copyright (C) 2015 Evimaria Terzi <evimaria@cs.bu.edu>
